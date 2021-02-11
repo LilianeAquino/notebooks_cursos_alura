@@ -136,4 +136,6 @@ dmypy.json
 .meta
 .index
 .ckpt
+.csv
+.xlsx
 
